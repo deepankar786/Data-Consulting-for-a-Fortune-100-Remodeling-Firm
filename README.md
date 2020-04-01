@@ -19,3 +19,5 @@ superior accuracy of the ensemble, with a final log loss value of
 0.5784. We also note that the highest levels of improvement in log
 loss occurs at the beginning of the process, after downsampling
 and using engineered custom metrics as inputs to the models. 
+
+Our model considers the impact of each factors to predict the home visit conversion rate for each lead and make scheduling recommendations to boost their resource forecasting efforts, optimizing resource allocation and management. This is the pioneering study of its kind in the home remodeling industry. While our solution is based on data and collaboration from a single national home remodeling firm, our methodological approach and solution are both industry agnostic and scalable, making it of interest to anyone interested in improving resource allocation and overall productivity.  
