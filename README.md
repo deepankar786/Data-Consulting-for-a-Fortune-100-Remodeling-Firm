@@ -1,5 +1,4 @@
-Improving Model Accuracy with Probability Scoring
-Machine Learning Models
+Operationalizing Predictive Analytics to Improve Appointment Management in the Home Remodeling Industry 
 
 Binary classification problems are exceedingly
 common across corporations, regardless of their industry. Popular
