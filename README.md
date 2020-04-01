@@ -1,5 +1,7 @@
 # Operationalizing Predictive Analytics to Improve Appointment Management in the Home Remodeling Industry 
 
+The project was our Capstone Project at Purdue University.
+
 Binary classification problems are exceedingly
 common across corporations, regardless of their industry. Popular
 examples include classifying a patient as high-risk or low-risk or
